@@ -1,0 +1,25 @@
+{
+  "name": "project-management-system",
+  "version": "1.0.0",
+  "description": "A smart and efficient Project Management System designed to streamline task tracking, team collaboration, deadlines, and workflow management in one place. ",
+  "keywords": [
+    "Backend",
+    "API",
+    "creation"
+  ],
+  "homepage": "https://github.com/Rishit1769/Project-Management-System#readme",
+  "bugs": {
+    "url": "https://github.com/Rishit1769/Project-Management-System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishit1769/Project-Management-System.git"
+  },
+  "license": "ISC",
+  "author": "Rishit Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
